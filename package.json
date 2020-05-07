@@ -1,0 +1,22 @@
+{
+  "name": "apiwebcsharp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webnersantos25/APIPHPCSHARP.git"
+  },
+  "author": "Webner Santos Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webnersantos25/APIPHPCSHARP/issues"
+  },
+  "homepage": "https://github.com/webnersantos25/APIPHPCSHARP#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
